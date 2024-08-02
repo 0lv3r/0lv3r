@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newth)
 [![Website](https://img.shields.io/badge/-Website-1f425f?style=flat&logo=Google-Chrome&logoColor=white&link=https://newth.ai)](https://newth.ai)
 
-Senior Product Manager with over 10 years of experience in AI and machine learning. Proven track record of leading teams at [Meta](https://about.meta.com), [Microsoft](https://www.microsoft.com) and [Covariant](https://covariant.ai) to develop innovative and user-friendly AI solutions. Expertise in Trust and Safety, User Experience (UX), Data Analysis, Agile Methodologies, and Cross-functional Leadership.
+Senior Product Manager with over 10 years of experience in AI and machine learning. Proven track record of leading teams at Meta, Microsoft and Covariant to develop innovative and user-friendly AI solutions. Expertise in Trust and Safety, User Experience (UX), Data Analysis, Agile Methodologies, and Cross-functional Leadership.
 
 ## Experience
 
