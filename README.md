@@ -1,35 +1,35 @@
 # Oliver Grosvenor-Newth
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newth)
-[![Website](https://img.shields.io/badge/-Website-1f425f?style=flat&logo=Google-Chrome&logoColor=white&link=https://newth.ai)](https://newth.ai)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:oliver@newth.ai)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newth) [![Website](https://img.shields.io/badge/-Website-1f425f?style=flat&logo=Google-Chrome&logoColor=white&link=https://newth.ai)](https://newth.ai) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:oliver@newth.ai)
 
-Innovative Senior Product Manager with over a decade of experience driving AI and machine learning initiatives at industry-leading tech companies. Proven track record of developing user-centric AI solutions that balance innovation, safety, and scalability. Expertise in Trust and Safety, User Experience (UX), Data Analysis, Agile Methodologies, and Cross-functional Leadership.
+## Senior Product Manager | AI & Machine Learning Leader | Trust & Safety Expert
 
-## 🚀 Career Highlights
+With over 10 years of experience at the forefront of AI and machine learning, I specialize in delivering scalable, user-centric products that drive growth while ensuring safety and ethical alignment. I lead cross-functional teams, balancing innovation with risk mitigation to create AI-powered solutions that empower users and enhance trust in digital ecosystems.
 
-- **Covariant** - Led development of vision AI robotic solution, projecting $100M+ ARR within 3 years
-- **Meta** - Drove 75% increase in Instagram Calling engagement over 6 months
-- **Microsoft** - Boosted Azure Cognitive Services adoption by 55% through strategic initiatives
-- **Deel** - Streamlined global contract management, enhancing usability and compliance
+## 🚀 Key Achievements
+
+- **Covariant:** Spearheaded the development of a vision AI robotic solution projected to deliver $100M+ ARR within 3 years.
+- **Meta:** Achieved a 75% increase in Instagram Calling engagement over 6 months through strategic UX optimizations.
+- **Microsoft:** Drove a 55% increase in Azure Cognitive Services adoption through targeted go-to-market strategies.
+- **Deel:** Streamlined global contract management processes, improving compliance and scalability across 80+ countries.
 
 ## 💼 Professional Experience
 
 | Company | Role | Period |
 |---------|------|--------|
 | [Covariant](https://covariant.ai) | Senior Product Manager, Safety-Critical Robotic Systems | 2022 - Present |
+| [Deel](https://www.deel.com) | Lead Product Manager, Contracts & HRIS | 2022 |
 | [Meta](https://about.meta.com) | Product Lead, Calling & Metaverse Experiences | 2020 - 2022 |
 | [Meta](https://about.meta.com) | Product Lead, Core Growth & Integrity | 2018 - 2020 |
 | [Meta](https://about.meta.com) | Product Manager, AR/VR Voice Assistant | 2017 - 2018 |
 | [Microsoft](https://www.microsoft.com) | Product Manager, Azure Cognitive Services | 2014 - 2017 |
-| [Deel](https://www.deel.com) | Lead Product Manager, Contracts & HRIS | 2022 |
 
-## 🛠 Skills & Expertise
+## 🛠 Expertise
 
-- **Product Management:** Strategic Roadmapping, Go-to-Market Strategy, Product Lifecycle Management
-- **AI & Machine Learning:** NLP, Computer Vision, Generative AI, AI Ethics
-- **Data & Analytics:** A/B Testing, Data-Driven Decision Making, Business Intelligence
-- **Trust & Safety:** Content Moderation, Policy Development, Risk Assessment & Mitigation
-- **Leadership:** Cross-functional Team Leadership, Stakeholder Management, Agile/Scrum Methodologies
+- **Product Management:** Product strategy, go-to-market execution, full product lifecycle management.
+- **AI & Machine Learning:** Computer vision, NLP, generative AI, ethical AI development.
+- **Data & Analytics:** Data-driven decision-making, A/B testing, business intelligence, product impact analysis.
+- **Trust & Safety:** Risk assessment, content moderation, platform integrity, policy development.
+- **Leadership:** Cross-functional team leadership, stakeholder management, agile/scrum methodologies.
 
 ## 💻 Tech Stack
 
@@ -44,7 +44,7 @@ Innovative Senior Product Manager with over a decade of experience driving AI an
 
 ## 🎓 Education
 
-- **Master's in High Performance Structures**, [Massachusetts Institute of Technology](https://www.mit.edu/) (2013 - 2014)
+- **Master's in High Performance Structures**, [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) (2013 - 2014)
 - **Bachelor's in Civil Engineering**, [University of Warwick](https://warwick.ac.uk/) (2009 - 2012)
 
 ## 🏆 Awards & Recognition
@@ -52,16 +52,14 @@ Innovative Senior Product Manager with over a decade of experience driving AI an
 - **Build Social Value Award**, Meta (2020)
 - **[Kennedy Scholarship](https://kennedytrust.org.uk/)**, Kennedy Memorial Trust, UK (2014)
 
-## 📚 Publications & Talks
+## 📚 Publications & Speaking Engagements
 
-- "The Future of AI in Product Management" - AI Product Conference, 2023
-- "Balancing Innovation and Safety in AI Products" - Tech Ethics Symposium, 2022
+- **The Future of AI in Product Management** – AI Product Conference (2023)
+- **Balancing Innovation and Safety in AI Products** – Tech Ethics Symposium (2022)
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
-I'm always open to discussing product strategy, AI innovations, or potential collaborations. Feel free to reach out!
+I'm always open to discussing AI product strategy, ethical AI innovation, and collaboration opportunities. Feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newth)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/newth)  
 [![Website](https://img.shields.io/badge/-Visit%20My%20Website-1f425f?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://newth.ai)
-
-For more detailed information about my projects and experiences, please visit my [personal website](https://newth.ai) or check out my [LinkedIn profile](https://www.linkedin.com/in/newth).
