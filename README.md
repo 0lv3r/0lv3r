@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Oliver Grosvenor-Newth
+👋 Hi, I’m Oliver Grosvenor-Newth
 
 👀 I’m interested in AI, technical writing, and creating clear, engaging content about complex AI concepts. I also enjoy exploring and sharing my thoughts and ideas through my digital garden.
 
